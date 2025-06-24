@@ -113,12 +113,15 @@ Key performance insights:
 -Pivot Tables: Used to generate category-based summaries and frequency counts.
 
 **Recommendations**
+
 **Menu Development**
+
 -Expand Asian and American items as they are customer favourites.
 
 -Redesign or promote Mexican and Italian menus to improve visibility and sales.
 
 **Marketing Strategies**
+
 -Schedule promotions during low-traffic times (e.g., 10 AM, 11 PM).
 
 -Offer discounts on Wednesdays and Saturdays to boost off-peak sales.
@@ -126,16 +129,19 @@ Key performance insights:
 -Introduce themed campaigns based on monthly trends—e.g., March Madness Meal Deals.
 
 **Upselling Techniques**
+
 -Train staff to suggest popular complementary items.
 
 -Offer combo meals using high-margin items like Edamame or Cheeseburgers.
 
 **Operational Adjustments**
+
 -Allocate more staff during peak hours (12–1 PM).
 
 -Adjust inventory ordering based on category and hourly trends to reduce waste.
 
 **Conclusion**
+
 The restaurant demonstrates a strong customer preference for American and Asian foods, especially during peak lunch hours and weekdays. Strategic adjustments to menu design, promotional activities, and operational planning can enhance customer satisfaction and increase sales. This report provides a data-driven foundation for making informed business decisions.
 
 
