@@ -38,7 +38,7 @@ The scope of this project includes:
 -Structured report that can be used by restaurant managers and marketing teams.
 
 **Document Purpose**
-This document serves as a structured, data-driven analysis of restaurant order trends. It is designed to provide stakeholders—restaurant owners, managers, and marketers—with evidence-based insights to support decision-making on menu offerings, marketing strategies, and operational hours.
+This document serves as a structured, data-driven analysis of restaurant order trends. It is designed to provide stakeholders,restaurant owners, managers, and marketers with evidence-based insights to support decision-making on menu offerings, marketing strategies, and operational hours.
 
 **Use Case**
 
@@ -126,7 +126,7 @@ Key performance insights:
 
 -Offer discounts on Wednesdays and Saturdays to boost off-peak sales.
 
--Introduce themed campaigns based on monthly trends—e.g., March Madness Meal Deals.
+-Introduce themed campaigns based on monthly trends e.g., March Madness Meal Deals.
 
 **Upselling Techniques**
 
