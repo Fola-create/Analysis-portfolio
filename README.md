@@ -89,15 +89,25 @@ Key performance insights:
 
 -Top Categories: American and Asian food items are most preferred.
 
+![](https://github.com/Fola-create/Analysis-portfolio/blob/main/Screenshot%202025-06-24%20175340.png) 
+
+![](https://github.com/Fola-create/Analysis-portfolio/blob/main/Top%20category%20order.png)
+
 -Least Popular Categories: Mexican and Italian.
+
+
 
 -High-Spending Orders: Highest recorded single order was £194.05, primarily consisting of Asian dishes.
 
 -Peak Sales Hours: 12 PM and 1 PM—aligned with lunch hours.
 
+![](https://github.com/Fola-create/Analysis-portfolio/blob/main/Top%20sales%20by%20hour.png) 
+
 -Lowest Sales Hours: 10 AM and 11 PM—start and end of business day.
 
 -Weekly Trends: Monday and Friday have higher sales than Wednesday and Saturday.
+
+![](https://github.com/Fola-create/Analysis-portfolio/blob/main/Top%20sales%20by%20day.png)
 
 -Monthly Trends: March shows the highest monthly sales, followed by February.
 
